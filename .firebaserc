@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angular-tasks-8f72e": {
+      "hosting": {
+        "sample": [
+          "angular-tasks-8f72e"
+        ]
+      }
+    }
+  }
+}
